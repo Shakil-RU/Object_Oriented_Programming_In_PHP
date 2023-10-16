@@ -11,5 +11,5 @@
     - Use of __get() method
     - Use of __toString() method
 
-## Functional view of this Repository is as follows
+## Some Functional View of This Repository is as Follows
 <img src="https://github.com/Shakil-RU/Object_Oriented_Programming_In_PHP/blob/main/demo.png"  width="500" height="700">
